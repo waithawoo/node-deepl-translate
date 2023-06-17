@@ -1,0 +1,28 @@
+{
+  "name": "deepltranslate",
+  "version": "1.0.0",
+  "description": "To use deepl translate api",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waithawoo/node-deepl-translate.git"
+  },
+  "keywords": [
+    "deepltranslate"
+  ],
+  "author": "Wai Thaw Oo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waithawoo/node-deepl-translate/issues"
+  },
+  "homepage": "https://github.com/waithawoo/node-deepl-translate#readme",
+  "dependencies": {
+    "deepltranslate": "^1.0.0"
+  }
+}
