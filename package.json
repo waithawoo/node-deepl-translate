@@ -1,6 +1,6 @@
 {
   "name": "deepltranslate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To use deepl translate api",
   "main": "src/index.js",
   "directories": {
@@ -14,7 +14,11 @@
     "url": "git+https://github.com/waithawoo/node-deepl-translate.git"
   },
   "keywords": [
-    "deepltranslate"
+    "deepltranslate",
+    "deepl",
+    "translate",
+    "api",
+    "translate api"
   ],
   "author": "Wai Thaw Oo",
   "license": "MIT",
